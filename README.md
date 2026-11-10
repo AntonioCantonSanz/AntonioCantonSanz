@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=FF6A3D&center=true&vCenter=true&width=700&height=55&lines=Antonio+Cant%C3%B3n+Sanz;Angular+%C2%B7+automatizaci%C3%B3n+%C2%B7+IA;Pr%C3%A1cticas+FCT+desde+el+15%2F02%2F2027" alt="Antonio Cantón Sanz">
+<img src="banner/banner.png" width="100%" alt="Antonio Cantón Sanz · Web Developer">
 
 `2º DAW · EIG Granada` &nbsp;·&nbsp; `Huétor Tájar, Granada` &nbsp;·&nbsp; `presencial · híbrido · remoto`
 
