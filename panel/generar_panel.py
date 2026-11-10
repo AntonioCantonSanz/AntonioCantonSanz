@@ -26,7 +26,7 @@ PROYECTOS = [
 ]
 
 COLORES_LENGUAJE = {
-    "TypeScript": "#3178C6", "JavaScript": "#F7DF1E", "Python": "#3776AB", "HTML": "#E34F26",
+    "TypeScript": "#3178C6", "JavaScript": "#F7DF1E", "Python": "#2fbf71", "HTML": "#E34F26",
     "CSS": "#663399", "PHP": "#777BB4", "Java": "#ED8B00", "SCSS": "#C6538C", "Shell": "#89E051",
 }
 NIVELES = ["#1a2030", "#4a2418", "#8a3a1e", "#d4542b", "#ff6a3d"]
