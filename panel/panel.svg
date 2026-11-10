@@ -41,7 +41,7 @@
 <g class="ap" style="animation-delay:0.33s">
 <rect x="235" y="160" width="187" height="84" rx="12" fill="#121826" stroke="#262e42"/>
 <text x="251" y="184" font-family="JetBrains Mono, SFMono-Regular, Consolas, Menlo, monospace" font-size="10" font-weight="600" fill="#8b95ab" text-anchor="start" letter-spacing="1.2">CONTRIBUCIONES</text>
-<text x="251" y="218" font-family="Segoe UI, Ubuntu, -apple-system, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8ecf5" text-anchor="start" >67</text>
+<text x="251" y="218" font-family="Segoe UI, Ubuntu, -apple-system, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8ecf5" text-anchor="start" >68</text>
 <text x="251" y="234" font-family="Segoe UI, Ubuntu, -apple-system, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b95ab" text-anchor="start" >en el último año</text>
 </g>
 <g class="ap" style="animation-delay:0.41s">
@@ -237,7 +237,7 @@
 <rect x="412" y="382" width="13" height="13" rx="3" fill="#1a2030"/>
 <rect x="428" y="286" width="13" height="13" rx="3" fill="#1a2030"/>
 <rect x="428" y="302" width="13" height="13" rx="3" fill="#1a2030"/>
-<rect x="428" y="318" width="13" height="13" rx="3" fill="#d4542b"/>
+<rect x="428" y="318" width="13" height="13" rx="3" fill="#ff6a3d"/>
 <text x="28" y="412" font-family="JetBrains Mono, SFMono-Regular, Consolas, Menlo, monospace" font-size="10" font-weight="400" fill="#5d667c" text-anchor="start" >menos</text>
 <rect x="70" y="403" width="10" height="10" rx="2" fill="#1a2030"/>
 <rect x="84" y="403" width="10" height="10" rx="2" fill="#4a2418"/>
@@ -252,7 +252,7 @@
 <g clip-path="url(#barra)" class="crece">
 <rect x="476.0" y="288" width="156.2" height="12" fill="#E34F26"/>
 <rect x="631.7" y="288" width="112.3" height="12" fill="#663399"/>
-<rect x="743.5" y="288" width="47.5" height="12" fill="#3776AB"/>
+<rect x="743.5" y="288" width="47.5" height="12" fill="#2fbf71"/>
 <rect x="790.5" y="288" width="24.7" height="12" fill="#3178C6"/>
 <rect x="814.7" y="288" width="17.8" height="12" fill="#F7DF1E"/>
 </g>
@@ -262,7 +262,7 @@
 <circle cx="659.0" cy="324" r="5" fill="#663399"/>
 <text x="672.0" y="328" font-family="Segoe UI, Ubuntu, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e8ecf5" text-anchor="start" >CSS</text>
 <text x="816.0" y="328" font-family="JetBrains Mono, SFMono-Regular, Consolas, Menlo, monospace" font-size="12" font-weight="400" fill="#8b95ab" text-anchor="end" >31.4%</text>
-<circle cx="481.0" cy="350" r="5" fill="#3776AB"/>
+<circle cx="481.0" cy="350" r="5" fill="#2fbf71"/>
 <text x="494.0" y="354" font-family="Segoe UI, Ubuntu, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e8ecf5" text-anchor="start" >Python</text>
 <text x="638.0" y="354" font-family="JetBrains Mono, SFMono-Regular, Consolas, Menlo, monospace" font-size="12" font-weight="400" fill="#8b95ab" text-anchor="end" >13.2%</text>
 <circle cx="659.0" cy="350" r="5" fill="#3178C6"/>
