@@ -10,15 +10,11 @@
 
 <br>
 
-```ts
-const antonio = {
-  rol: "Desarrollador web junior",
-  ahora: ["Angular + TypeScript", "Java y Spring Boot (aprendiendo)", "Salesforce Trailhead"],
-  meGusta: "convertir tareas manuales en cosas que funcionan solas",
-  conIA: "planifico, reviso cada paso y no entrego nada que no sepa explicar",
-  busco: { que: "prácticas FCT", desde: "15/02/2027", hasta: "04/06/2027" },
-};
-```
+<p align="center">
+  <img src="panel/panel.svg" width="100%" alt="Panel: repos públicos, contribuciones, lenguajes, días para la FCT y proyectos">
+</p>
+
+<p align="center"><sub>Me gusta convertir tareas manuales en cosas que funcionan solas. Trabajo con agentes de IA, pero planifico, reviso cada paso y no entrego nada que no sepa explicar.</sub></p>
 
 ### ⚡ Herramientas
 
