@@ -36,6 +36,9 @@
       ├─ Octubre · Simulación de Release Manager
       │    QA → UAT → producción en Vercel, CI y SemVer
       │
+      ├─ Noviembre · CI/CD con GitHub Actions
+      │    tests y cobertura obligatorios, despliegue en Pages
+      │
 2027 ─┴─ Febrero · Prácticas FCT ← aquí estoy buscando sitio
 ```
 
@@ -69,9 +72,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎰 <a href="https://github.com/AntonioCantonSanz/slot-machine-pirata">Tragaperras Pirata</a></h4>
-      Máquina tragaperras con temática pirata que funciona entera en el navegador.<br><br>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      <h4>✅ <a href="https://github.com/AntonioCantonSanz/cicd-angular">CI/CD con Angular</a></h4>
+      Lista de tareas que se publica sola en GitHub Pages. Nada llega a main sin una PR con los tests en verde y un 80 % de cobertura.<br><br>
+      <code>Angular</code> <code>GitHub Actions</code> <code>Vitest</code><br>
+      <a href="https://antoniocantonsanz.github.io/cicd-angular/">▶ Ver demo</a>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 <a href="https://github.com/AntonioCantonSanz/Antairon.dev">Portfolio</a></h4>
